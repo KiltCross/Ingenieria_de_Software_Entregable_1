@@ -8,9 +8,14 @@ Debe de ser capaz de manejar, registrar y persistir las reservas, estadías y ca
 
 ## Valor
 Permitirá manejar y registrar las reservas y estadías de forma consistente, confiable, sencilla y eficiente. Permitiendo un mayor control y claridad sobre estas, y a su vez reduciendo los recursos humanos gastados es estas tareas.
+Hará que los clientes tengan una estadía más amena, al reducir las interacciones con el personal.
+Permitirá a los empleados trabajar de una mejor manera al reducir la interacción con los clientes.
+Hará que los posibles clientes estén más inclinados a reservar, gracias a la conveniencia añadida.
+
 
 ## Publico Objetivo
 Debe de gustarles a los dueños de la cadena de hostales, pero los usuarios son los empleados de los hostales y los clientes.
+No se conoce dato alguno ni sobre los empleados, ni de los clientes. En cuanto a sus preferencias.
 
 ## Uso Previsto
 Ser usado por los clientes para manejar sus reservas y estadías.
